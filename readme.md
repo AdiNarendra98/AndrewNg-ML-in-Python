@@ -40,4 +40,4 @@ Each assignment is in Python and Jupyter Notebook format.
 
 - I would like to thank professor Andrew Ng and the crew of the Stanford Machine Learning class on Coursera for such an awesome class. 
 - Some of the material used, especially the code for submitting assignments for grading is based on [`mstampfer`'s](https://github.com/mstampfer/Coursera-Stanford-ML-Python) python implementation of the assignments. 
-- Thanks to (https://github.com/blaine12100/Andrew-NG-Machine-Learning-Course-in-Python) and [`Soojin Ro`](https://github.com/nsoojin/coursera-ml-py) for inspiration for this notebook.
+- Thanks to [`Dhruv Marwha`](https://github.com/blaine12100/Andrew-NG-Machine-Learning-Course-in-Python) and [`Soojin Ro`](https://github.com/nsoojin/coursera-ml-py) for the inspiration behind this notebook.
