@@ -8,7 +8,7 @@
 
 
 ## About
-This repositry contains the python versions of the programming assignments for the [Machine Learning online class](https://www.coursera.org/learn/machine-learning) taught by Professor Andrew Ng. This is perhaps the most popular introductory online machine learning class. In addition to being popular, it is also one of the best Machine learning classes any interested student can take to get started with machine learning. An unfortunate aspect of this class is that the programming assignments are in MATLAB or OCTAVE, probably because this class was made before python became the go-to language in machine learning.
+This repository contains the python versions of the programming assignments for the [Machine Learning Course](https://www.coursera.org/learn/machine-learning) taught by Professor Andrew Ng. This is perhaps the most popular introductory online machine learning class. In addition to being popular, it is also one of the best Machine learning classes any interested student can take to get started with machine learning. An unfortunate aspect of this class is that the programming assignments are in MATLAB or OCTAVE, probably because this class was made before python became the go-to language in machine learning.
 If you've finished the amazing introductory Machine Learning on Coursera by Prof. Andrew Ng, you probably got familiar with Octave/Matlab programming. With this repo, you can re-implement them in Python, step-by-step, visually checking your work along the way, just as the course assignments.
 
 ## Requirements 
@@ -29,11 +29,11 @@ To get started, you can start by either downloading a zip file of these assignme
     clone https://github.com/AdiNarendra98/Andrew-Ng-ML-in-Python.git
   
 Each assignment is in Python and Jupyter Notebook format.
-* The Jupyter Notebooks are contained in the 'Exercises in Jupyter Notebook' folder 
+1. The Jupyter Notebooks are contained in the 'Exercises in Jupyter Notebook' folder 
 . For example, assignment 1 is contained within the folder `Exercise1`. Each folder contains two files: 
  - The assignment `jupyter` notebook, which has a `.ipynb` extension. All the code which you need to write will be written within this notebook.
  - A python module `utils.py` which contains some helper functions needed for the assignment. Functions within the `utils` module are called from the python notebook. You do not need to modify or add any code to this file.
-* Alternatively the python files are in 'Excercises in Python Files' folder.
+2. Alternatively the python files are in 'Exercises in Python Files' folder.
 
     
 
