@@ -1,5 +1,5 @@
-# [Coursera Machine Learning MOOC by Andrew Ng](https://www.coursera.org/learn/machine-learning) 
-# Python Programming Assignments
+# [Machine Learning Course by Andrew Ng on Coursera](https://www.coursera.org/learn/machine-learning) 
+# Programming Assignments in Python
 [![author](https://img.shields.io/badge/author-adinarendra-red.svg)](https://github.com/AdiNarendra98) [![python](https://img.shields.io/badge/python-3.6-blue.svg)]() [![license](https://img.shields.io/github/license/mashape/apistatus.svg)]() [![contribution](https://img.shields.io/badge/contribution-welcome-brightgreen.svg)]()
 
 
