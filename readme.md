@@ -29,17 +29,15 @@ To get started, you can start by either downloading a zip file of these assignme
     clone https://github.com/AdiNarendra98/Andrew-Ng-ML-in-Python.git
   
 Each assignment is in Python and Jupyter Notebook format.
-1. The Jupyter Notebooks are contained in the 'Exercises in Jupyter Notebook' folder 
+1. The Jupyter Notebooks are contained in the "Exercises in Jupyter Notebook" folder 
 . For example, assignment 1 is contained within the folder `Exercise1`. Each folder contains two files: 
  - The assignment `jupyter` notebook, which has a `.ipynb` extension. All the code which you need to write will be written within this notebook.
  - A python module `utils.py` which contains some helper functions needed for the assignment. Functions within the `utils` module are called from the python notebook. You do not need to modify or add any code to this file.
-2. Alternatively the python files are in 'Exercises in Python Files' folder.
+2. Alternatively the python files are in "Exercises in Python Files" folder.
+ - For example, assignment 1 is contained within the folder `machine-learning-ex1` folder.This contains all the functions written in python files corresponding the exact names in which the files are being provided in the course assignments for solving.
 
-    
-
-
-## Acknowledgements
+    ## Acknowledgements
 
 - I would like to thank professor Andrew Ng and the crew of the Stanford Machine Learning class on Coursera for such an awesome class. 
 - Some of the material used, especially the code for submitting assignments for grading is based on [`mstampfer`'s](https://github.com/mstampfer/Coursera-Stanford-ML-Python) python implementation of the assignments. 
-- Thanks to [Dhruv Marwha](https://github.com/blaine12100/Andrew-NG-Machine-Learning-Course-in-Python) and [Soojin Ro](https://github.com/nsoojin/coursera-ml-py) for inspiration for this notebook.
+- Thanks to (https://github.com/blaine12100/Andrew-NG-Machine-Learning-Course-in-Python) and [`Soojin Ro`](https://github.com/nsoojin/coursera-ml-py) for inspiration for this notebook.
