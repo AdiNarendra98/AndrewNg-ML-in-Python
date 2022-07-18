@@ -26,7 +26,15 @@ These assignments has been tested and developed using the following libraries:
 
 To get started, you can start by either downloading a zip file of these assignments by clicking on the `Clone or download` button. If you have `git` installed on your system, you can clone this repository using : 
 
-    clone https://github.com/dibgerge/ml-coursera-python-assignments.git
+    clone https://github.com/AdiNarendra98/Andrew-Ng-ML-in-Python.git
+  
+Each assignment is in Python and Jupyter Notebook format.
+* The Jupyter Notebooks are contained in the 'Exercises in Jupyter Notebook' folder 
+. For example, assignment 1 is contained within the folder `Exercise1`. Each folder contains two files: 
+ - The assignment `jupyter` notebook, which has a `.ipynb` extension. All the code which you need to write will be written within this notebook.
+ - A python module `utils.py` which contains some helper functions needed for the assignment. Functions within the `utils` module are called from the python notebook. You do not need to modify or add any code to this file.
+* Alternatively the python files are in 'Excercises in Python Files' folder.
+
     
 
 
