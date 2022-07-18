@@ -21,6 +21,13 @@ These assignments has been tested and developed using the following libraries:
     - matplotlib==2.1.2
     - jupyter==1.0.0
     - jupyter-client==5.0.1
+    
+ ## Downloading the Assignments
+
+To get started, you can start by either downloading a zip file of these assignments by clicking on the `Clone or download` button. If you have `git` installed on your system, you can clone this repository using : 
+
+    clone https://github.com/dibgerge/ml-coursera-python-assignments.git
+    
 
 
 ## Acknowledgements
